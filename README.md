@@ -1,2 +1,2 @@
 # TimBossuyt.github.io
-Personal website
+Hello, this is my personal website
