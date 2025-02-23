@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my homepage
+Hi, and welcome to my website.
